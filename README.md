@@ -77,6 +77,9 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 
 * "Interactive Language: Talking to Robots in Real Time", *arXiv, Oct 2022* [[Paper](https://arxiv.org/abs/2210.06407)] [[Website](https://interactive-language.github.io/)]
 
+* "Interactive Language: Talking to Robots in Real Time", *arXiv, Oct 2022* [[Paper](https://arxiv.org/abs/2210.06407)] [[Website](https://interactive-language.github.io/)]
+
+* "**LM-Nav**: Robotic Navigation with Large Pre-Trained Models of Language, Vision, and Action", *CoRL, Dec 2022* [[Paper](https://proceedings.mlr.press/v205/shah23b/shah23b.pdf)] [[Website](https://sites.google.com/view/lmnav)]
 ---
 ## Simulation Frameworks
 
