@@ -19,7 +19,6 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 ---
 ## Reasoning
 
-* **Inner Monologue**: "Embodied Reasoning through Planning with Language Models", *arXiv, Jul 2022*. [[Paper](https://arxiv.org/pdf/2207.05608.pdf)] [[Website](https://innermonologue.github.io)]
 * **PaLM-E**: "An Embodied Multimodal Language Model",  *arXiv, March 2023*. [[Paper](https://arxiv.org/pdf/2303.03378.pdf)] [[Website](https://arxiv.org/pdf/2303.03378.pdf)]
 
  * **Code-As-Policies**: "Code as Policies: Language Model Programs for Embodied Control", *arXiv, Sept 2022*. [[Paper](https://arxiv.org/abs/2209.07753)]  [[Colab](https://github.com/google-research/google-research/tree/master/code_as_policies)] [[Website](https://code-as-policies.github.io/)]
